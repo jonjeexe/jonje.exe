@@ -358,7 +358,7 @@ body{
     
     align-items: center;
     justify-content: center;
-    background: #000000;
+    background: #FFFFFF;
     overflow: hidden;
 }
 .container{
@@ -381,8 +381,8 @@ body{
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: #010718;
-    border-left: 2px solid #4070F4;
+    background-color: #FFFFFF;
+    border-left: 3px solid #4070F4;
     animation: animate 4s steps(12) infinite;
 }
 @keyframes animate{
