@@ -244,7 +244,7 @@ body.dark {
 @media screen and (max-width: 768px) {
   #sidebarOpen {
     font-size: 25px;
-    display: block;
+    display: unblock;
     margin-right: 10px;
     cursor: pointer;
     color: var(--grey-color);
